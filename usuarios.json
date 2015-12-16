@@ -1,0 +1,10 @@
+{
+    "humanos" : [
+	{
+	    "nombre" : "Nombre Usuario",
+            "apellidos" : "Apellidos Usuario",
+            "correo" : "user@server",
+            "usuario" : "nombreUsuario",
+            "clave" : "PUBLIC KEY" 
+        }]
+}
